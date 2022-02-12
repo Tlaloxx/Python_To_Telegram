@@ -7,5 +7,5 @@ https://atareao.es/tutorial/crea-tu-propio-bot-para-telegram/bot-en-python-para-
 
 https://i.ytimg.com/vi/3xKwbY6YB_0/mqdefault.jpg
 
-<img src="/img/pygram.jpg" alt="Telegram y Python" style="height: 300px; width:200px;"/>
+<img src="/img/pygram.jpg" alt="Telegram y Python" style="height: 200px; width:350px;"/>
 
