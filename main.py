@@ -5,8 +5,7 @@ import requests
 # chat_ident = '@clase_clase_exito'
 # texto = 'Hola mundo cruel!'
 
-# requests.post('https://api.telegram.org/bot'+'token'+'/sendMessage',
-#               data={'chat_id': chat_ident, 'text': texto})
+# requests.post('https://api.telegram.org/bot'+'token'+'/sendMessage' , data={'chat_id': chat_ident, 'text': texto})
 
 
 import requests
